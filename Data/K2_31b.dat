@@ -1,0 +1,23 @@
+T0:2457191.70889
+rp_Rs:0.135
+Err_rp_Rs: 0
+a_Rs:6.05
+Err_a_Rs:0.50
+Inc:80
+Err_Inc:0.5
+TStar:5280
+Err_TStar:70
+MStar:0.91
+Err_MStar:0.06
+RStar:0.78
+Err_RStar:0.07
+MPlanet:1.774
+Err_MPlanet:0.079
+Period:1.257850
+Err_Period:0.000002
+u: 0.6554
+g: 0.4611
+Ecc: 0.0
+Omega: 90.0
+u1:0.4995
+u2:0.2138
